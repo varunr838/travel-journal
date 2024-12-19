@@ -6,7 +6,7 @@ export default [
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
         description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: "https://unsplash.com/photos/WLxQvbMyfas"
+        imageUrl: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         title : "Sydney Opera House",
@@ -24,6 +24,24 @@ export default [
         startDate: "01 Oct, 2024",
         endDate: "18 Nov, 2024",
         description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
-        imageUrl: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRFxx5gcDbeQwevnCHgvMHeHgVl-6Ug7TNUnXvtfeCeE_zoWYbkRTEhI3tRej6_E3j7phttSHn4vzmZUea-w31SZMWNqfyyUll4RcOhAg"
+        imageUrl: "https://cdn.sanity.io/images/4aans0in/production/6455427d271934711138955086edffe6587e8552-1440x1440.jpg?w=1200&h=1200&fm=webp&q=100&fit=max&auto=format"
+    },
+    {
+        title : "Geirangerfjord",
+        location: "NORWAY",
+        googleMapsUrl: "google.com",
+        startDate: "01 Oct, 2024",
+        endDate: "18 Nov, 2024",
+        description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+        imageUrl: "https://cdn.sanity.io/images/4aans0in/production/6455427d271934711138955086edffe6587e8552-1440x1440.jpg?w=1200&h=1200&fm=webp&q=100&fit=max&auto=format"
+    },
+    {
+        title : "Geirangerfjord",
+        location: "NORWAY",
+        googleMapsUrl: "google.com",
+        startDate: "01 Oct, 2024",
+        endDate: "18 Nov, 2024",
+        description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+        imageUrl: "https://cdn.sanity.io/images/4aans0in/production/6455427d271934711138955086edffe6587e8552-1440x1440.jpg?w=1200&h=1200&fm=webp&q=100&fit=max&auto=format"
     }
 ]

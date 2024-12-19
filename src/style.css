@@ -1,3 +1,6 @@
+.body{
+    padding: 0px;
+}
 .header2{
     background-color: #F55A5A;
     color: white;
@@ -6,6 +9,8 @@
     width: 550px;
     align-items: center;
     justify-content: center;
+    margin: 0px;
+    margin-bottom: 40px;
     
 }
 .globe-icon{
@@ -13,4 +18,66 @@
     width: 24px;
     color: white;
     margin-right: 5px;
+}
+.journal-photo{
+    width: 125px;
+    height: 168px;
+    border-radius: 10px;
+}
+.card{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-left: 30px;
+
+}
+.location-icon{
+    height: 9.55px;
+    width: 7px;
+    margin: none;
+}
+.location-name{
+    font-family:inter,arial;
+    display: inline;
+    font-size: 10.24px;
+    letter-spacing: 2px;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.location{
+    display: flex;
+    align-items: center;
+}
+.maps-url{
+    font-family: inter,arial;
+    font-size: 10.24px;
+    color: #918E9B;
+    margin-left: 7px;
+    margin-bottom: none;
+}
+.card-sub{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+.location-title{
+    font-family: inter,arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 3px;
+}
+.date{
+    font-family: inter,arial;
+    font-weight: bold;
+    font-size: 10.24px;
+    margin:0px;
+    margin-top: 12px;
+}
+.description{
+    margin :0px;
+    margin-top: 3px;
 }
