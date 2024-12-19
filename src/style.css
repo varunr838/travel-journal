@@ -1,0 +1,16 @@
+.header2{
+    background-color: #F55A5A;
+    color: white;
+    display: flex;
+    height: 55px;
+    width: 550px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.globe-icon{
+    height: 24px;
+    width: 24px;
+    color: white;
+    margin-right: 5px;
+}
